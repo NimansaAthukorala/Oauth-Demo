@@ -1,0 +1,3 @@
+com\oauth\data\ResourceDataHolder.class
+com\oauth\util\FileOperations.class
+com\oauth\servlet\OAuthCallbackListener.class
